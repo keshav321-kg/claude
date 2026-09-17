@@ -5,6 +5,12 @@ scikit-learn training pipeline (`RandomForestClassifier` on a standardized
 feature set), and a FastAPI service that scores transactions for fraud risk
 in real time.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keshav321-kg/claude/blob/main/notebooks/fraud_detection_colab.ipynb)
+
+A self-contained notebook version (`notebooks/fraud_detection_colab.ipynb`)
+lets you generate the data, train, and score example transactions directly
+in Google Colab — click the badge above.
+
 ## Features used
 
 - `amount` — transaction amount
